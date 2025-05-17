@@ -1,2 +1,2 @@
-# FDSL-Assignment-2
-Assignment based on Linear Search and Binary Search
+# FDSL-Assignment-2.1
+Assignment based on Linear Search.
